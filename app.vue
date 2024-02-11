@@ -1,5 +1,7 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <UiSelect></UiSelect>
   </div>
 </template>
+<script setup lang="ts">
+</script>
